@@ -21,31 +21,31 @@ The analysis helps management track productivity, measure efficiency, and make d
 ## Process
 
 1.	Data Collection
-•	Imported Excel dataset into Python using Pandas
+-	Imported Excel dataset into Python using Pandas
 2.	Data Understanding
-•	Checked data types, columns, and structure
-•	Verified total sales calculations
+-	Checked data types, columns, and structure
+-	Verified total sales calculations
 3.	Data Cleaning
-•	Removed unnecessary columns (if any)
-•	Ensured numeric consistency
-•	Handled missing or inconsistent values
+-	Removed unnecessary columns (if any)
+-	Ensured numeric consistency
+-	Handled missing or inconsistent values
 4.	Exploratory Data Analysis (EDA)
-•	Region-wise total and average sales
-•	Employee-wise performance analysis
-•	Day-wise sales trend analysis
+-	Region-wise total and average sales
+-	Employee-wise performance analysis
+-	Day-wise sales trend analysis
 5.	Performance Metrics Calculation
-•	Total sales by region
-•	Average sales by region
-•	Target hit and gap analysis
-•	Identification of top and bottom performers
+-	Total sales by region
+-	Average sales by region
+-	Target hit and gap analysis
+-	Identification of top and bottom performers
 6.	Insights & Interpretation
-•	Discovered regions with highest sales contribution
-•	Identified sales executives exceeding targets
-•	Analyzed daily sales behavior
+-	Discovered regions with highest sales contribution
+-	Identified sales executives exceeding targets
+-	Analyzed daily sales behavior
 7.	Visualization (Optional)
-•	Bar charts for regional sales
-•	Line charts for daily trends
-•	KPI indicators for target achievement
+-	Bar charts for regional sales
+-	Line charts for daily trends
+-	KPI indicators for target achievement
 
 ## Dashboard
 ![Employee Target/Employee Target Screenshot.png](https://github.com/adityakulange/Excel_Project/blob/main/Employee%20Target/Employee%20Target%20Screenshot.png)
