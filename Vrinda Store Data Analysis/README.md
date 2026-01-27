@@ -21,7 +21,7 @@ This project focuses on analyzing Vrinda Store’s sales data to understand cust
 ## Project Process
 
 1️) Data Collection
-- •	Imported the Vrinda Store Project.xlsx dataset into Python using Pandas
+- Imported the Vrinda Store Project.xlsx dataset into Python using Pandas
 2️) Data Understanding
 •	Reviewed dataset structure and data types
 •	Identified numerical and categorical features
