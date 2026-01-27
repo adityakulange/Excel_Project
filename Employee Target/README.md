@@ -48,3 +48,4 @@ The analysis helps management track productivity, measure efficiency, and make d
 •	KPI indicators for target achievement
 
 ## Dashboard
+https://github.com/adityakulange/Excel_Project/blob/main/Employee%20Target/Employee%20Target%20Screenshot.png"
