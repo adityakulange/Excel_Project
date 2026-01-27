@@ -1,1 +1,1 @@
-## VRrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Vrrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
