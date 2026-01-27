@@ -49,3 +49,7 @@ The analysis helps management track productivity, measure efficiency, and make d
 
 ## Dashboard
 ![Employee Target/Employee Target Screenshot.png](https://github.com/adityakulange/Excel_Project/blob/main/Employee%20Target/Employee%20Target%20Screenshot.png)
+
+## Conclusion
+
+This project demonstrates practical data analysis and business intelligence skills, showcasing how raw sales data can be transformed into meaningful insights to support strategic decision-making.
