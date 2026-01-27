@@ -5,7 +5,7 @@
 This project focuses on analyzing Vrinda Store’s sales data to understand customer behavior, sales performance, and regional trends. The goal is to transform raw sales data into actionable business insights that can help improve revenue, optimize inventory, and enhance decision-making.
 
 ## Dataset Used
--<a href="https://github.com/adityakulange/Excel_Project/blob/main/Vrinda%20Store%20Data%20Analysis/Vrinda%20Store%20Data.xlsx">Vrinda-Store-Data-Analysis</a>
+- <a href="https://github.com/adityakulange/Excel_Project/blob/main/Vrinda%20Store%20Data%20Analysis/Vrinda%20Store%20Data.xlsx">Vrinda-Store-Data-Analysis</a>
 
 ## Questions (KPIs)
 
@@ -20,21 +20,21 @@ This project focuses on analyzing Vrinda Store’s sales data to understand cust
 
 ## Project Process
 
-1️⃣ Data Collection
+1️) Data Collection
 •	Imported the Vrinda Store Project.xlsx dataset into Python using Pandas
-2️⃣ Data Understanding
+2️) Data Understanding
 •	Reviewed dataset structure and data types
 •	Identified numerical and categorical features
-3️⃣ Data Cleaning & Preparation
+3️) Data Cleaning & Preparation
 •	Handled missing and duplicate values
 •	Standardized column names
 •	Converted date and numeric fields into appropriate formats
-4️⃣ Exploratory Data Analysis (EDA)
+4️) Exploratory Data Analysis (EDA)
 •	State-wise sales and transaction analysis
 •	Region-wise quantity sold analysis
 •	Product category and product-level performance
 •	City-wise sales distribution
-5️⃣ Business Calculations
+5️) Business Calculations
 •	Total transactions by state
 •	Sales by state and product category
 •	Total quantity sold by region
@@ -42,11 +42,11 @@ This project focuses on analyzing Vrinda Store’s sales data to understand cust
 •	Average sales amount by state
 •	Average sales amount by state and product
 •	Maximum sales achieved in each city
-6️⃣ Data Visualization
+6️) Data Visualization
 •	Bar charts for regional and state-wise sales
 •	Product and category performance charts
 •	Summary visuals for quick insights
-7️⃣ Insight Generation
+7️) Insight Generation
 •	Identified high-revenue regions and states
 •	Recognized best-selling products and categories
 •	Highlighted cities with maximum sales potential
