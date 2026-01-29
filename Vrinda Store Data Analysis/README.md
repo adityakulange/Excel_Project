@@ -22,18 +22,22 @@ This project focuses on analyzing Vrinda Store’s sales data to understand cust
 
 1️. Data Collection
  - Imported the Vrinda Store Project.xlsx dataset into Python using Pandas
+
 2️. Data Understanding
  - Reviewed dataset structure and data types
  -	Identified numerical and categorical features
+
 3️. Data Cleaning & Preparation
  -	Handled missing and duplicate values
  -	Standardized column names
  -	Converted date and numeric fields into appropriate formats
+
 4️. Exploratory Data Analysis (EDA)
  -	State-wise sales and transaction analysis
  -	Region-wise quantity sold analysis
  -	Product category and product-level performance
  -	City-wise sales distribution
+
 5️. Business Calculations
  -	Total transactions by state
  -	Sales by state and product category
@@ -42,10 +46,12 @@ This project focuses on analyzing Vrinda Store’s sales data to understand cust
  -	Average sales amount by state
  -	Average sales amount by state and product
  -	Maximum sales achieved in each city
+
 6️. Data Visualization
  -	Bar charts for regional and state-wise sales
  -	Product and category performance charts
  -	Summary visuals for quick insights
+
 7️. Insight Generation
  -	Identified high-revenue regions and states
  -	Recognized best-selling products and categories
