@@ -8,7 +8,7 @@ This project focuses on analyzing structured data to uncover meaningful insights
 - <a hrref="https://github.com/adityakulange/Excel_Project/blob/main/Bank%20Loan%20Project/financial_loan.csv">Financcila_Loan_Data</a>
 
 ## Key Performance Indicators (KPIs) Requirements:
-- DASHBOARD 1: SUMMARY
+## DASHBOARD 1: SUMMARY
 
 1.	Total Loan Applications
 2.	Total Funded Amount
@@ -16,12 +16,12 @@ This project focuses on analyzing structured data to uncover meaningful insights
 4.	Average Interest Rate
 5.	Average Debt-to-Income Ratio (DTI).
 
-## Good Loan v Bad Loan KPI’s
 - Good Loan KPIs:
 1.	Good Loan Application Percentage
 2.	Good Loan Applications
 3.	Good Loan Funded Amount
 4.	Good Loan Total Received Amount
+
 - Bad Loan KPIs:
 1.	Bad Loan Application Percentage'
 2.	Bad Loan Applications
