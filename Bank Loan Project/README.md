@@ -27,10 +27,18 @@ This project focuses on analyzing structured data to uncover meaningful insights
 2.	Bad Loan Applications
 3.	Bad Loan Total Received Amount
 
+<img width="1404" height="713" alt="Summary Screenshot" src="https://github.com/user-attachments/assets/8b591b63-f9aa-4270-810a-8d3f73a2b4bb" />
+   
 ## DASHBOARD 2: OVERVIEW
 
-1. Monthly Trends by Issue Date (Line Chart):
-2. Loan Term Analysis (Donut Chart):
-3. Employee Length Analysis (Bar Chart):
-4. Loan Purpose Breakdown (Bar Chart):
-5. Home Ownership Analysis (Tree Map):
+1. Monthly Trends by Issue Date (Line Chart)
+2. Loan Term Analysis (Donut Chart)
+3. Employee Length Analysis (Bar Chart)
+4. Loan Purpose Breakdown (Bar Chart)
+5. Home Ownership Analysis (Tree Map)
+
+<img width="1283" height="675" alt="Overview Screenshot" src="https://github.com/user-attachments/assets/e26a13a4-ea74-4562-8e11-3e00e20cc58b" />
+
+## Conclusion
+
+The dashboard successfully highlights important trends and key metrics, making complex data easy to understand. The insights derived from the analysis help identify strengths, areas for improvement, and opportunities for optimization. Overall, this project demonstrates effective data cleaning, analysis, and visualization techniques, showcasing the ability to convert raw data into actionable business insights.
