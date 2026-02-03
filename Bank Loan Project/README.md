@@ -7,7 +7,7 @@ This project focuses on analyzing structured data to uncover meaningful insights
 ## Dataset
 - <a href="https://github.com/adityakulange/Excel_Project/blob/main/Bank%20Loan%20Project/financial_loan.csv">Financial_Loan_Data</a>
 
-## Key Performance Indicators (KPIs) Requirements:
+## Key Performance Indicators (KPIs) Requirements
 ## DASHBOARD 1: SUMMARY
 
 1.	Total Loan Applications
@@ -23,7 +23,7 @@ This project focuses on analyzing structured data to uncover meaningful insights
 4.	Good Loan Total Received Amount
 
 - Bad Loan KPIs:
-1.	Bad Loan Application Percentage'
+1.	Bad Loan Application Percentage
 2.	Bad Loan Applications
 3.	Bad Loan Total Received Amount
 
