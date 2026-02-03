@@ -5,7 +5,7 @@
 This project focuses on analyzing structured data to uncover meaningful insights and present them through interactive and visually appealing dashboards. The goal is to help stakeholders make data-driven decisions by identifying trends, patterns, and key performance indicators (KPIs).
 
 ## Dataset
-- <a hrref="https://github.com/adityakulange/Excel_Project/blob/main/Bank%20Loan%20Project/financial_loan.csv">Financcila_Loan_Data</a>
+- <a href="https://github.com/adityakulange/Excel_Project/blob/main/Bank%20Loan%20Project/financial_loan.csv">Financial_Loan_Data</a>
 
 ## Key Performance Indicators (KPIs) Requirements:
 ## DASHBOARD 1: SUMMARY
